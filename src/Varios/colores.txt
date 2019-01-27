@@ -1,0 +1,5 @@
+head claro [66,165,245] 42A5F5
+
+boton oscuro [13,71,161] 0D47A1
+
+amarillo [241,196,15] f1c40f
